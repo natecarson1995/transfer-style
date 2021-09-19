@@ -1,0 +1,12 @@
+[package]
+name = "transfer-style"
+version = "0.1.0"
+authors = ["carson29 <carson29@mail.nmc.edu>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+clap = "2.33"
+texture-synthesis = "0.8.1"
+glob="0.3.0"
